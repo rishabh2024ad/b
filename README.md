@@ -37,7 +37,7 @@ This project is a simple AI chatbot built using Flask, Google Gemini AI, and Boo
 
 3. Set up your Google Gemini AI API key in `app.py`:
    ```python
-   API_KEY = "your-api-key-here"
+   API_KEY = ""
    ```
 
 4. Run the Flask app:
